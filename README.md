@@ -1,4 +1,4 @@
-# typescript-script-experiment
+# typescript-script-experiment-template
 
 Local script to be used (typically) as an experiment for a possible project.
 
