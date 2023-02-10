@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "typescript-script-experiment",
+  "name": "typescript-script-experiment-template",
   "private": true,
   "scripts": {
     "prepare": "husky install",
